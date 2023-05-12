@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-<h1>Some PID ans PPID Programs & scripts 🌱</h1>
+<h1>Some PID and PPID Programs & scripts 🌱</h1>
 </div
 
 * program that prints the PID of the parent process
